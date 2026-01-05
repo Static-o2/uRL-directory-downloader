@@ -10,6 +10,11 @@ Open the correct `.js` file and copy **everything** inside of it.
 - for downloading student information copy `download_student_directory.js`
 - for downloading faculty information copy `download_faculty_directory.js`
 
+If you want a `.csv` use the files above, and if you want the data in JSON format use:
+- `JSON_download_student_directory` for student information and 
+- `JSON_download_faculty_directory` for faculty information
+
+
 ### Step 2
 
 Once you have copied the full contents of the file to your clipboard, you can log onto uRL and navigate to either the **student** or **faculty** directory
