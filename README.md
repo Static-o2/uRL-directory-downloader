@@ -18,6 +18,9 @@ If you want a `.csv` use the files above, and if you want the data in JSON forma
 ### Step 2
 
 Once you have copied the full contents of the file to your clipboard, you can log onto uRL and navigate to either the **student** or **faculty** directory
+> [!CAUTION]
+> Not all student/faculty data is available when you first load the page, so in order to not leave out the people with last names that start with H-Z make sure to scroll all the way to the bottom of the page to load everyone.
+
 
 ### Step 3
 
