@@ -26,7 +26,7 @@ Once you have copied the full contents of the file to your clipboard, you can lo
 
 Open the chrome console by pressing `Cmd + Option + J` (Mac) or `Ctrl + Shift + J` (Windows). Then paste the file you copied earlier into the console and press `Enter`.
 > [!IMPORTANT]
-> Because of an update to Chrome you will get a warning when you try to do this. Type "allow pasting" to enable pasting in the console.
+> Because of an update to Chrome you will get a warning when you try to do this. To fix this type "allow pasting" to enable pasting in the console.
 
 ### Step 4
 
@@ -37,27 +37,7 @@ Press `Enter` to run the script. The script will automatically:
 
 ### Step 5
 
-The CSV file will be automatically downloaded to your default downloads folder. You can now open it with Numbers, Google Sheets, or something else.
-
-## Example Output
-
-Here's an example of the data that will be downloaded:
-
-### Student Directory
-
-| Name | Email | Class | PhotoURL |
-|------|-------|-------|----------|
-| Dillan Akinc | dillan.akinc@roxburylatin.org | 2026 | https://bbk12e1-cdn.myschoolcdn.com/... |
-| Milo Choumert | milo.choumert@roxburylatin.org | 2028 | https://bbk12e1-cdn.myschoolcdn.com/... |
-| Riley Alqueza | riley.alqueza@roxburylatin.org | 2028 | https://bbk12e1-cdn.myschoolcdn.com/... |
-
-### Faculty Directory
-
-| Name | Email | Roles | AlumniYear | PhotoURL |
-|------|-------|-------|------------|----------|
-| Mr. Michael Beam | michael.beam@roxburylatin.org | English, Classics | 2010 | https://bbk12e1-cdn.myschoolcdn.com/... |
-| Dr. Arthur Beauregard | arthur.beauregard@roxburylatin.org | Mathematics, Science | | https://bbk12e1-cdn.myschoolcdn.com/... |
-| Mr. George Matthews | george.matthews@roxburylatin.org | Classics | 2008 | https://bbk12e1-cdn.myschoolcdn.com/... |
+The CSV (or JSON file) file will be automatically downloaded to your default downloads folder. You can now open it with Numbers, Google Sheets, or something else.
 
 ## Requirements
 
